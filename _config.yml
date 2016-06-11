@@ -1,14 +1,8 @@
 layout_spectrum: 0.4731183
-color:
-  saturation: 0.4784946
-  brandStrength: 0.9040067
-  lightness: 0
-  rhythmicContrast: 0.5250896
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
 typography_spectrum: 0.5573477
+color:
+  saturation: 0.2867384
+  lightness: 1
+  brandStrength: 0.9040067
+  rhythmicContrast: 0.04121864
 name: GC
