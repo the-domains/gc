@@ -10,8 +10,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.516129
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0.9040067
   lightness: 0.4856631
   brandColors:
@@ -21,6 +22,5 @@ color:
     - '#56514C'
     - '#312A2B'
   rhythmicContrast: 1
-typography_spectrum: 0.516129
 layout_spectrum: 0.1487455
 name: GC
