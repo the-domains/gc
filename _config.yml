@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.516129
 color:
   saturation: 1
   brandStrength: 0.9040067
@@ -22,5 +21,6 @@ color:
     - '#56514C'
     - '#312A2B'
   rhythmicContrast: 0
-layout_spectrum: 0
+typography_spectrum: 0.516129
+layout_spectrum: 0.3835126
 name: GC
