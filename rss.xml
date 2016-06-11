@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GC]]></title>
+        <description><![CDATA[GC]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 11 Jun 2016 14:29:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THE LAST OF US #001 - Die Infektion bricht aus [HD+] | Let's Play The Last of Us]]></title>
+            <description><![CDATA[<article><h1>THE LAST OF US #001 - Die Infektion bricht aus [HD+] | Let's Play The Last of Us</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb0c6abcffdabd719195387ebaee34d504d522ad.jpg"></article>]]></description>
+            <link>http://youtu.be/lfL-Xvzs8yU</link>
+            <guid isPermaLink="false">3d58e4b9-70d3-4189-9311-e5bcabd5cfde</guid>
+            <pubDate>Sat, 11 Jun 2016 14:29:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
