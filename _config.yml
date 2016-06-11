@@ -1,8 +1,20 @@
-layout_spectrum: 0.4731183
-typography_spectrum: 0.5573477
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.2867384
-  lightness: 1
+  saturation: 0
   brandStrength: 0.9040067
+  lightness: 1
   rhythmicContrast: 0.04121864
+typography_spectrum: 0.5573477
+layout_spectrum: 0.2383513
 name: GC
