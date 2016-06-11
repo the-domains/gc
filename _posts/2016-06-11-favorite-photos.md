@@ -1,0 +1,29 @@
+---
+author: []
+datePublished: '2016-06-11T14:08:29.889Z'
+title: Favorite Photos
+description: 'Snapshots taken by Dirk :)'
+sourcePath: _posts/2016-06-11-favorite-photos.md
+dateModified: '2016-06-11T14:08:14.367Z'
+starred: false
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
+
+---
+## Chiemsee, Bavaria
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0bd85e70b255bb0d0660fbc81579c491bcd311c.jpg)
+
+## Portugal
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/420d13908d566b2e32a108a7b7e14d0155a4e4c3.jpg)
+
+## Berlin
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13ec8faf-d549-4a41-9e71-c52e80bdd3c7.jpg)
+
+## St. Anna Platz, Munich
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f9de504-6c22-4775-a9b6-22409e52d7dd.jpg)
+
+# Favorite Photos
+
+Snapshots taken by Dirk :)
