@@ -11,10 +11,10 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0
-  brandStrength: 0.9040067
+  saturation: 0.7956989
   lightness: 1
-  rhythmicContrast: 0.04121864
+  brandStrength: 0.9040067
+  rhythmicContrast: 0
 typography_spectrum: 0.5573477
-layout_spectrum: 0.2383513
+layout_spectrum: 0.4713262
 name: GC
